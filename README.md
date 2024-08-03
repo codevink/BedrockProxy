@@ -1,4 +1,3 @@
-```markdown
 # BedrockProxy
 
 **BedrockProxy** is a lightweight and efficient proxy server for Minecraft Bedrock Edition, designed to facilitate seamless server management and enhance gameplay with advanced features and custom commands.
@@ -56,4 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or support, please contact t.me/codevink or vk.com/codevink.
-```
