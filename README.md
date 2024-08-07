@@ -40,15 +40,7 @@ Configure the proxy by editing the `config.json` file:
 ```
 
 ## Commands
-- `/help`: Displays a list of available commands.
-- `/time <day|night>`: Toggle between day and night in the server.
-- `/flb <on|off>`: Enable or disable fullbright mode.
-- `/trail <on|off>`: Toggle trail effects.
-- `/transfer <IP> <Port>`: Transfer to another server.
-- `/jb <amplifier>`: Set jumpboost effect.
-- `/fb <amplifier>`: Enable or disable fastbreak effect.
-- `/gm <mode>`: Set the gamemode (0: Survival, 1: Creative, 2: Adventure, 3: Spectator).
-- `/lowkb <amplifier>`: Enable or disable low knockback effect.
+- `/beproxy`: Show proxy menu.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
